@@ -9,7 +9,7 @@ credits: true
 ---
 
 {% include feature/jumbotron.html objectid="item1" %}
-about-featured-image: /assets/img/Map1-legend-STC FIP-1913.jpg
+
 {% include feature/nav-menu.html sections="About the Collection;About the About Page" %}
 
 ## Fire Insurance Plans Pre - 1930
