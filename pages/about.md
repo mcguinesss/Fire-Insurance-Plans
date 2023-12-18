@@ -32,6 +32,7 @@ The following is a list of the included fire insurance plans pre-1930:
 15.  Beamsville, 1921
 16.  Beamsville, 1928
 
-
+Also avaialable on-site at the Brock University Archives and Specials Collections are the following fire insurance plans:
+Welland, 1944; Welland, 1965; Port Colborne, 1953; Niagara Falls, 1951; Niagara Falls - including Chippawa, 1965; Ridgeway - Welland, 1940; Bertie Township - embracing District of Crescent Park, Crescent Beach, Erie Beach & part of Abino Point, 1938; St. Catharines including the town of Thorold and part of Thorold Twp., 1963; Town of Niagara on the Lake, 1949; Dunville - Haldimond County, 1932; Town of Dunville, 1955; Town of Port Dover, 1936; St. Catharines, 1935.
 
 
